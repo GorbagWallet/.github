@@ -1,2 +1,3 @@
-<img src="" />
-# Gorbag Wallet | A Gorbagana Native Wallet
+<img src="Gorbag Wallet Banner.png" />
+
+# Gorbag | A Gorbagana Native Wallet
